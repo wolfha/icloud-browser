@@ -4,4 +4,5 @@ debian/debhelper-build-stamp
 debian/icloud-browser  
 debian/icloud-browser.postinst.debhelper  
 debian/icloud-browser.substvars
+debian/.debhelper/
 assets/
