@@ -1,0 +1,17 @@
+src/icons/scalable/icloud-browser.svg /usr/share/icons/hicolor/scalable/apps
+src/icons/256x256/icloud-browser.png /usr/share/icons/hicolor/256x256/apps
+src/icons/512x512/icloud-browser.png /usr/share/icons/hicolor/512x512/apps
+src/icons/32x32/icloud-browser.png /usr/share/icons/hicolor/32x32/apps
+src/icons/64x64/icloud-browser.png /usr/share/icons/hicolor/64x64/apps
+src/icons/48x48/icloud-browser.png /usr/share/icons/hicolor/48x48/apps
+src/icons/128x128/icloud-browser.png /usr/share/icons/hicolor/128x128/apps
+src/icons/16x16/icloud-browser.png /usr/share/icons/hicolor/16x16/apps
+
+src/icons/scalable/icloud-browser.svg /usr/share/icons/matefaenza/apps/scalable
+src/icons/32x32/icloud-browser.png /usr/share/icons/matefaenza/apps/32
+src/icons/64x64/icloud-browser.png /usr/share/icons/matefaenza/apps/64
+src/icons/16x16/icloud-browser.png /usr/share/icons/matefaenza/apps/16
+src/icons/48x48/icloud-browser.png /usr/share/icons/matefaenza/apps/48
+
+src/icloud-browser /usr/bin
+src/icloud-browser.desktop /usr/share/applications

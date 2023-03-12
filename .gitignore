@@ -1,5 +1,4 @@
 debian/files           
-icloud-browser.install             
 debian/icloud-browser.postrm.debhelper  
 debian/debhelper-build-stamp  
 debian/icloud-browser  
