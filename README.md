@@ -2,7 +2,21 @@
 
 A stupidly simple launcher to access iCloud for your Debian/Ubuntu desktop as a web app.
 
-This was simply written for convenience and starts a chromium web app and adds the launcher to your application menu.
+This was simply written for convenience and starts a chromium web app and adds the launcher to your application menu. And that is all it does.
+
+# building or installing the debian package
+
+The lazy way (the package is in the repo)
+
+```
+sudo apt install dist/icloud-browser_0.1-2_all.deb
+```
+
+If you have debhelper installed build your own with
+
+```
+fakeroot debian/rules binary
+```
 
 ## screenshots
 
