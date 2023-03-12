@@ -6,9 +6,9 @@ This was simply written for convenience and starts a chromium web app and adds t
 
 ## screenshots
 
-![Settings Window](https://raw.github.com/augmentedlogic/icloud-browser/main/screenshots/screenshot-1.png)
+![Screenshot 1](https://raw.githubusercontent.com/augmentedlogic/icloud-browser/main/screenshots/screenshot-1.png)
 
-![Settings Window](https://raw.github.com/augmentedlogic/icloud-browser/main/screenshots/screenshot-1.png)
+![Screenshot 2](https://raw.githubusercontent.com/augmentedlogic/icloud-browser/main/screenshots/screenshot-2.png)
 
-![Settings Window](https://raw.github.com/augmentedlogic/icloud-browser/main/screenshots/screenshot-1.png)
+![Screenshot 3](https://raw.githubusercontent.com/augmentedlogic/icloud-browser/main/screenshots/screenshot-3.png)
 
