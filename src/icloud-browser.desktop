@@ -1,0 +1,12 @@
+[Desktop Entry]
+Name=iCloud Browser
+GenericName=iCloud Browser
+GenericName[de]=iCloud Browser
+X-GNOME-FullName=iCloud Browser
+Comment=Open iCloud as a web app
+Exec=icloud-browser
+Terminal=false
+Type=Application
+Icon=icloud-browser
+Categories=Network;Internet;Browser;
+X-AppInstall-Package=icloud-browser

@@ -1,0 +1,12 @@
+Source: icloud-browser
+Priority: optional
+Section: Web Software
+Maintainer: augmentedlogic <dev@augmentedlogic.com>
+Homepage: https://developer.augmentedlogic.com
+
+Package: icloud-browser
+Architecture: all
+Depends: chromium
+Description: chromium desktop web app to access icloud
+ stupidly simple web app launcher to access icloud from a linux desktop
+
